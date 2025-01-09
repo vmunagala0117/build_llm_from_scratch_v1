@@ -174,3 +174,4 @@ sms_spam_collection/
 *.pdf
 gpt2/
 *.csv
+*.pth
